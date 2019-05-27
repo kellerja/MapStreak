@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "218417657807",
+    "firebase_url": "https://mapstreakplaceholder.firebaseio.com",
+    "project_id": "mapstreakplaceholder",
+    "storage_bucket": "mapstreakplaceholder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218417657807:android:07c99f6014862225",
+        "android_client_info": {
+          "package_name": "com.example.mapstreakplaceholder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218417657807-8hqapdudop5r7ao3f8rl92k7een7a2pb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapstreakplaceholder",
+            "certificate_hash": "591c2da53fef949b66439242385bea3b19738672"
+          }
+        },
+        {
+          "client_id": "218417657807-8b2f1nnb11vkl2ck24umgkipcp4tvklt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAefZzMQj26OmqGG7p20lzwMU03S6EGLyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218417657807-8b2f1nnb11vkl2ck24umgkipcp4tvklt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
